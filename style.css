@@ -1,6 +1,12 @@
+body {
+ background-color: khaki;
+}
 p{
     color:darkmagenta;
 }
 h1{
     color: purple;
+}
+button{
+    color: darkviolet;
 }
